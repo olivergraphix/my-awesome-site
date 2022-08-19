@@ -1,0 +1,8 @@
+:root {
+    --heading-size: 1.6rem;
+
+    --rich-black: hsl(210, 50%, 1%);
+    --accent-color: hsl(130, 50%, 43%);
+    --bg-color-gray: rgba(124, 123,123, 0.1);
+
+}
